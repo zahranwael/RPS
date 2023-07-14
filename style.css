@@ -1,0 +1,23 @@
+body{
+    background-color: #f5f4f0;
+}
+
+.title, .playervscomputer{
+ text-align: center;
+}
+
+.score , .round-result , .selection , .playervscomputer ,.rps{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.score h2 , .selection img{
+    margin: 10px;
+    cursor: grab;
+}
+
+.rps h2{
+    margin: 5px;
+}
+
